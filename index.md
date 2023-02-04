@@ -1,10 +1,10 @@
 ---
-title: {{ site.title }}
+title: Home
 layout: page
 description: {{ site.description }}
 intro_image: "images/DSC05703.jpg"
 intro_image_absolute: false
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 show_call_box: false
 ---
 
