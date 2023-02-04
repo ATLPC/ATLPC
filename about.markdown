@@ -1,8 +1,12 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+description: About
+intro_image: "/images/DSC05656.jpg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 ---
+
 Andrew Tadros Law Professional Corporation (“**ATLPC**”) was founded in October 2020 by its principal, Andrew M. Tadros. 
 
 Andrew obtained his law degree from the University of Manchester at the age of 21. Upon his return to Toronto, he immediately dove into the field of civil litigation, assisting at a boutique litigation firm, in which he gained invaluable experiences and sharpened his skills.
