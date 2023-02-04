@@ -1,13 +1,19 @@
 ---
 title: {{ site.title }}
-layout: home
+layout: page
 description: {{ site.description }}
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+intro_image: "images/DSC05703.jpg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# {{ site.title }}
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+<br>
+<br> 
+
+## Barrister & Solicitor
+## Corporate/Commercial
+## Civil Litigation
+## Wills & Estates
