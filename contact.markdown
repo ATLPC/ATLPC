@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Contact
-permalink: /contact/
+layout: contact
+description: Contact
 ---
 
 Andrew M. Tadros – BARRISTER & SOLICITOR  

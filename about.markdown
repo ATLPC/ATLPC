@@ -1,7 +1,8 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+description: About
+bodyClass: page-about
 ---
 Andrew Tadros Law Professional Corporation (“**ATLPC**”) was founded in October 2020 by its principal, Andrew M. Tadros. 
 
