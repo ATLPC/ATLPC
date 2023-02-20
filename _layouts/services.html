@@ -8,7 +8,7 @@ bodyClass: "page-services"
   <div class="container">
     <div class="row justify-content-start">     
       {% if page.intro_image %}     
-      <img alt={{ page.title }} class="img-responsive" height="315" src="{{ page.intro_image | relative_url }}" />
+      <img alt={{ page.title }} class="img-responsive" width=100% src="{{ page.intro_image | relative_url }}" />
     {% endif %}
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         {{ content }}
@@ -17,7 +17,7 @@ bodyClass: "page-services"
   </div>
 </div>
 
-<div class="container pt-6 pb-6">
+<div class="container pt-3 pb-3">
   <div class="row">
     {% for service in site.services %}
     <div class="col-12 col-md-6 mb-3">
