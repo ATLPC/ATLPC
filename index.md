@@ -1,8 +1,8 @@
 ---
 title: Home
-layout: page
+layout: home
 description: {{ site.description }}
-intro_image: "images/DSC05703.jpg"
+intro_image: "images/scales.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 show_call_box: false
@@ -13,7 +13,11 @@ show_call_box: false
 <br>
 <br> 
 
-## Barrister & Solicitor
 ## Corporate/Commercial
 ## Civil Litigation
 ## Wills & Estates
+
+<br>
+<br>
+
+{% include contact-details.md %}

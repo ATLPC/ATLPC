@@ -7,4 +7,4 @@ The world of litigation can often be a tumultuous and expensive experience for m
 
 ATLPC will advocate on your behalf in all circumstances, ensuring that your needs and concerns are utilized in developing the most effective strategy for your matter.
 
-Andrew M. Tadros, principal and founder of ATLPC, has appeared before the Ontario Superior Court of Justice, the Ontario Small Claims Court, and the License Appeal Tribunal of Ontario. Accordingly, ATLPC will not only approach your matter with energy, logic, and efficiency, but also with a wealth of knowledge and experience at your disposal. 
+Andrew M. Tadros, principal and founder of ATLPC, has appeared before the Ontario Superior Court of Justice, the Ontario Small Claims Court, and the License Appeal Tribunal of Ontario. Accordingly, ATLPC will not only approach your matter with energy, logic, and efficiency, but also with a wealth of knowledge and experience, at your disposal.

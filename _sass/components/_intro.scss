@@ -24,19 +24,43 @@
   }
   h2 {
     width: 80%;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     line-height: 1.4;
     margin-bottom: 30px;
-    color: lighten($secondary, 20%);
+    color: $light-steel;
     font-family: $font-family-base;
+  }
+  h3 {
+    font-family: $font-family-base;
+    font-size: 20px;
+    line-height: 1.4;
+    font-weight: normal;
+    margin-top: 30px;
+    color: $light-steel;
   }
   p {
     font-size: 1.2rem;
     font-weight: light;
     line-height: 1.5;
-    color: $steel;
+    color: $light-steel;
     @include media-breakpoint-up(md) {
       width: 80%;
+    }
+  }
+  table {
+    width: 80%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: $light-steel;
+    th,
+    td {
+      padding: 5px;
+      vertical-align: top;
+    }
+    thead th {
+      vertical-align: bottom;
+      text-align: left;
+      font-weight: bold;
     }
   }
 }
