@@ -13,7 +13,7 @@ baseurl: '/'
 permalink: pretty
 
 logo:
-  mobile: "images/Scales.svg"
+  mobile: "images/scales.svg"
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/ATLPC_logo.svg"
