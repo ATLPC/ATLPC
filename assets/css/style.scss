@@ -9,6 +9,7 @@ $black: #101010;
 $white: #ffffff;
 $white-offset: #fff6f8;
 $steel: #5c5a5a;
+$light-steel: lighten($steel, 20%);
 
 // Links
 $link-color: $primary;
@@ -58,16 +59,17 @@ $sub-footer-text-color: $white;
 
 // Pages
 @import "pages/page-home";
+@import "pages/page-contact";
 @import "pages/page-teams";
 @import "pages/page-service";
 
 body {
-  font-size: 16px;
+  font-size: 1.2rem;
   line-height: 1.2;
   font-family: $font-family-base;
   background-color: $black;
   @include media-breakpoint-up(md) {
-    font-size: 16px;
+    font-size: 1.2rem;
     line-height: 1.3;
   }
 }

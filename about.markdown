@@ -2,7 +2,7 @@
 title: About
 layout: page
 description: About
-intro_image: "/images/DSC05656.jpg"
+intro_image: "/images/DSC05700.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
@@ -13,4 +13,4 @@ Andrew obtained his law degree from the University of Manchester at the age of 2
 
 Andrew then went on to article for a boutique law firm, which specialized in civil litigation, corporate & commercial law, along with wills & estates law. 
 
-Upon being called to the Ontario Bar in June of 2020, Andrew promptly founded ATLPC with the aims of ushering in a law practice of efficient and optimal legal services, in the instant technological modern world
+Upon being called to the Ontario Bar in June of 2020, Andrew promptly founded ATLPC with the aims of ushering in an efficient and modern law practice, geared towards providing optimal legal services.
