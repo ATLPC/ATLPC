@@ -5,7 +5,7 @@ weight: 1
 
 ATLPC understands that whether you are an employee, a contractor, a consultant, or a business owner, your livelihood is your ultimate priority. 
 
-From ensuring your contractual agreements are negotiated and ratified properly, to expanding your corporate empire, ATLPC approaches each corporate matter with a meticulous concept and strategy tailored to your specific needs, along with the needs of your industry.
+From ensuring your contractual agreements are negotiated and ratified properly, to expanding your corporate empire, ATLPC approaches each corporate matter with a meticulous strategy tailored to your specific needs, along with the needs of your industry.
 
 ATLPC’s corporate & commercial services include, but are not limited to:
 * Incorporation and corporate management

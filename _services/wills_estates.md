@@ -9,7 +9,8 @@ Whether you are looking to manage your entire estate, part of your estate, or ha
 
 ATLPC’s wills & estates services include, but are not limited to:
 * Estate planning 
-* Will drafting and administration, execution along with trust drafting and creation
+* Will drafting and administration
+* Trust drafting, creation and administration
 * Probate and estate administration
 * Power(s) of attorney of property and personal care
 * Guardianship application(s)
