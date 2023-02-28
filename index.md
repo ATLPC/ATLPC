@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 show_call_box: false
 ---
 
-# {{ site.title }}
+<h1 style="text-align: center;"> {{ site.title }} </h1>
 
 <br>
 <br> 
@@ -16,6 +16,7 @@ show_call_box: false
 ## Corporate/Commercial
 ## Civil Litigation
 ## Wills & Estates
+## Music Law
 
 <br>
 <br>
