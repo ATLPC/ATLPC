@@ -3,13 +3,14 @@
     <div class="row">
       <div class="col-12">
         <div class="footer-inner">
-          <h2 class="footer-title">{{site.title}}</h2>
+       
           <ul>
-            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
+            {% assign footermenu = site.data.contact.details  %}
             {% for item in footermenu %}
-            <li class="{% if item.url == page.url %}active{% endif %}">
-              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
-            </li>
+            <div class ="social">
+              <img class="logo" src="{{ item.icon | relative_url }}" title="{{ item.field }}" alt="{{ item.field }}" />{{ item.value }}
+            </div>
+            
             {% endfor %}
           </ul>
         </div>

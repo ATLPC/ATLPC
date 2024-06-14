@@ -1,4 +1,4 @@
-|**Direct** |  {{ site.data.contact.direct }} |  
-|**Office** | {{ site.data.contact.office }} |
-|**E-mail** | {{ site.email }}  |
-|**Location** | {{ site.data.contact.location }} |
+{% assign footermenu = site.data.contact.details  %}
+{% for item in footermenu %}
+|**{{ item.field }}**| {{ item.value }}|
+{% endfor %}

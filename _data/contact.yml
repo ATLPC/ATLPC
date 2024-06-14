@@ -1,6 +1,16 @@
-email: 'andrew@atlpc.ca'
-direct: '647-402-7949'
-office: '437-836-3559'
-email: 'andrew@atlpc.ca'
-location: '500 King Street West, Suite 300 Toronto, ON M5V 1L9'
-contact_button_link: 'contact'
+
+details:
+  - field: "Email"
+    value: "andrew@atlpc.ca"
+    icon: /images/icons/email.svg
+  - field: "Direct"
+    value: "647-402-7949"
+    icon: /images/icons/phone.svg
+  - field: "Office"
+    value: "437-836-3559"
+    icon: /images/icons/office.svg
+  - field: "Location"
+    value: "Hullmark Centre, Yonge Street Law Chambers, 4789 Yonge Street, Suite 1101, Toronto, ON M2N 0G3"
+    icon: /images/icons/location.svg
+
+
