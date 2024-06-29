@@ -4,15 +4,17 @@
       <div class="col-12">
         <div class="footer-inner">
        
-          <ul>
+          
             {% assign footermenu = site.data.contact.details  %}
             {% for item in footermenu %}
-            <div class ="social">
-              <img class="logo" src="{{ item.icon | relative_url }}" title="{{ item.field }}" alt="{{ item.field }}" />{{ item.value }}
+            <div class="footer-inner">
+              <div class ="social">
+                <img class="logo" src="{{ item.icon | relative_url }}" title="{{ item.field }}" alt="{{ item.field }}" />
+              </div>
+                <a style="font-size:14px; padding-left: 4px;">   {{ item.value }} </a>
             </div>
-            
             {% endfor %}
-          </ul>
+        
         </div>
       </div>
     </div>
