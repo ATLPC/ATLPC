@@ -9,7 +9,7 @@ $black: #101010;
 $white: #ffffff;
 $white-offset: #fff6f8;
 $steel: #5c5a5a;
-$light-steel: lighten($steel, 20%);
+$light-steel: lighten($steel, 60%);
 
 // Links
 $link-color: $primary;
@@ -31,7 +31,7 @@ $sub-footer-text-color: $white;
 @import "bootstrap-variables";
 @import "bootstrap/bootstrap-reboot";
 @import "bootstrap/bootstrap-grid";
-// @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
+@import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
 
 // Libraries
 @import "libraries/hamburgers/hamburgers";
@@ -72,4 +72,10 @@ body {
     font-size: 1.2rem;
     line-height: 1.3;
   }
+}
+
+.footer .footer-inner {
+    background-color: $primary;
+    font-size: 14px;
+    a { color: $secondary}
 }

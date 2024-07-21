@@ -1,22 +1,27 @@
 <div class="footer">
   <div class="container">
-    <div class="row">
+    
       <div class="col-12">
         <div class="footer-inner">
        
           
             {% assign footermenu = site.data.contact.details  %}
-            {% for item in footermenu %}
-            <div class="footer-inner">
+            
+              {% for item in footermenu %}
+            
               <div class ="social">
                 <img class="logo" src="{{ item.icon | relative_url }}" title="{{ item.field }}" alt="{{ item.field }}" />
               </div>
-                <a style="font-size:14px; padding-left: 4px;">   {{ item.value }} </a>
-            </div>
+                <a>   {{ item.value }} </a>
+            
             {% endfor %}
-        
+
+          <a href="#disclaimerModal" data-target="#disclaimer" data-toggle="modal">Disclaimer</a>
+            {% include disclaimer.html %}
+         
+
         </div>
       </div>
-    </div>
+    
   </div>
 </div>

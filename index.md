@@ -18,7 +18,3 @@ show_call_box: false
 ## Wills & Estates
 ## Music Law
 
-<br>
-<br>
-
-{% include contact-details.md %}
