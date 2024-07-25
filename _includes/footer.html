@@ -1,27 +1,32 @@
 <div class="footer">
-  <div class="container">
-    
-      <div class="col-12">
+  <div class="container-fluid px-10">
+    <div class="row-fluid justify-content-center">
+  
         <div class="footer-inner">
        
           
-            {% assign footermenu = site.data.contact.details  %}
-            
-              {% for item in footermenu %}
-            
-              <div class ="social">
-                <img class="logo" src="{{ item.icon | relative_url }}" title="{{ item.field }}" alt="{{ item.field }}" />
-              </div>
-                <a>   {{ item.value }} </a>
-            
-            {% endfor %}
+              {% assign footermenu = site.data.contact.details  %}
+              
+                {% for item in footermenu %}
+              
+                <div class="col-fluid px-2">
+                  <div class="row justify-content-center">
+                  <div class ="social pr-1">
+                    <img class="logo" src="{{ item.icon | relative_url }}" title="{{ item.field }}" alt="{{ item.field }}" />
+                  </div>
+                    <a>   {{ item.value }} </a>
+                    </div>
+                  </div>
+              {% endfor %}
 
-          <a href="#disclaimerModal" data-target="#disclaimer" data-toggle="modal">Disclaimer</a>
+              <div class="col-fluid px-2">
+           <a href="#disclaimerModal" data-target="#disclaimer" data-toggle="modal">Disclaimer</a>
             {% include disclaimer.html %}
-         
+   </div>
+
 
         </div>
-      </div>
-    
+      
+    </div>
   </div>
 </div>
