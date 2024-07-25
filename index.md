@@ -13,12 +13,10 @@ show_call_box: false
 <br>
 <br> 
 
-## Corporate/Commercial
-## Civil Litigation
-## Wills & Estates
-## Music Law
 
-<br>
-<br>
-
-{% include contact-details.md %}
+<h2 style="text-align: center;">
+Corporate/Commercial<br> <br>
+Wills & Estates<br> <br>
+Civil Litigation<br> <br>
+Music Law
+</h2>
